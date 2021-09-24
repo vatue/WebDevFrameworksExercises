@@ -1,0 +1,50 @@
+.SubHeader {
+
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    margin: auto;
+    position: relative;
+    width: auto;
+    padding: auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+
+}
+
+.SubHeaderTitle1 {
+
+    background-color: midnightblue;
+    width: 70%;
+    padding: 5px;
+    text-align: center;
+    margin-top: 5px;
+    margin-bottom: -5px;
+
+}
+
+.SubHeaderTitle2 {
+
+    background-color: midnightblue;
+    width: 70%;
+    padding: 5px;
+    text-align: center;
+    margin-bottom: -5px;
+    
+}
+
+.SubHeaderTitle3 {
+
+    background-color: midnightblue;
+    width: 70%;
+    padding: 5px;
+    text-align: center;
+
+}
+
+
+
+
+/* trying out flexbox for the subheader, instead of hardcoding component locations */
+/* https://css-tricks.com/snippets/css/a-guide-to-flexbox/ */

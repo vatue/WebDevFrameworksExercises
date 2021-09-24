@@ -1,0 +1,20 @@
+.MostReadNews {
+
+    display: flex;
+    font-family: Arial, Helvetica, sans-serif;
+    align-items: center;
+    float: right;
+    justify-content: center;
+    flex-direction: column;
+    justify-content: space-between;
+    margin-right: 25px;
+    gap: 5px;
+
+}
+
+.MRNContent {
+
+    font-size: 17px;
+
+
+}
